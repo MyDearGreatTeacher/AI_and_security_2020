@@ -1,4 +1,5 @@
 # 網站安全學習目標
+## 基本觀念
 ```
 http協定
 網站基本組成:網站伺服器(web server)+網站應用程式(web application)
@@ -7,6 +8,35 @@ http協定
 客戶端程式(client-side programming|Web 應用框架)= HTML 5 + CSS 3  + JAVASCRIPT ==> 
 客戶端程式Framework:Bootstrap(RWD)  jQuery|jQuery mobile  Angular(Google)
 
+```
+## 測試技術
+```
+
+
+```
+
+## 子模組
+```
+4-1.網站運作原理
+4-2.網站測試技術與Web-CTF實戰
+4-3.網站漏洞與測試:DVWA實戰測試
+4-4.強化網站安全的技術: 原始碼檢測  漏洞掃描  滲透測試  應用程式防火牆
+4-5.強化網站安全的應用程式防火牆[錄影課程|選讀課程]
+4-6.強化網站安全的應用程式防火牆實戰[錄影課程|選讀課程]
+```
+### 4-1.網站運作原理
+```
+本課程將教授網站基礎運作原理、網站組成，同時理解瀏覽器與網站伺服器之間溝通協定(HTTP)
+網站運作組成:
+網站伺服器(web server)+網站應用程式(web application)
+
+網站運作的協定:HTTP
+
+```
+### 4-2.網站測試技術與Web-CTF實戰
+```
+本課程透過CTF平台實際演練，教授學生基本的測試工具，包括developer tools、curl、burpsuite等工具，
+再配合Linux系統使用常用Curl工具解題，使學生能對CTF產生熱情與興趣
 ```
 # 網站伺服器(web server)
 ```

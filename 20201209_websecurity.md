@@ -50,7 +50,20 @@ API8:2019 – Injection 注入
 API9:2019 - Improper Assets Management 資產管理不當
 API10:2019 - Insufficient Logging & Monitoring 日誌和監控不足
 ```
+# OWASP
+```
+The Open Web Application Security Project (OWASP)開放式Web應用程式安全項目（OWASP）是一個線上社群、非營利組織，
+在Web應用安全領域提供免費的文章、方法、檔案、工具和技術。
+```
+```
+OWASP Application Security Verification Standard (ASVS) ver.4 (2019)
+OWASP Secure Coding Practices
+OWASP Top Ten Proactive Controls (2018)
+OWASP Top Ten Risks (2017)
+OWASP Testing Guide v4(2014)
+OWASP Cheatsheet Series
 
+```
 ### HTTP DOS 攻擊測試 (1)
 ```
 # update repos first

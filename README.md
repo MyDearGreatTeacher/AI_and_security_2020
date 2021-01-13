@@ -8,7 +8,6 @@
 期末考報告{滲透測試}
 
 其他加分項目
-
 ```
 
 
@@ -50,6 +49,10 @@
  
  (3)滲透測試步驟與常用工具說明
     http://tprc.tanet.edu.tw/tpnet2014/training/10309.pdf
+```
+```
+安全性機制及工具
+https://www.yumpu.com/en/document/read/3045228/-
 ```
 
 ```

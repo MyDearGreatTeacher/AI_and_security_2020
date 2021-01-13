@@ -52,8 +52,26 @@
     http://tprc.tanet.edu.tw/tpnet2014/training/10309.pdf
 ```
 
-
-
+```
+[1] 網路攻防實驗教材[Book chapters]
+    財團法人國家實驗室研究院科技政策研究與資訊中心-(2005)
+[2] 郭斯彥與郭耀煌教授主編量子資訊教材
+    第十章量子密碼學 Quantum Cryptography 曾龍
+    http://nsc.cs.nthu.edu.tw/QIS/[連結已失效]
+[3] 林政頴、黃亦銘、曾龍，RFID 安全性議題，RUN_PC，(2007/11)
+[4] 林政頴、黃培軒、曾龍，Web Application Security Framework and Assessment (1)，RUN_PC，(2007/1)
+[5] 林政頴、陳家銘、曾龍，Web Application Security Framework and Assessment (2)，RUN_PC，(2007/2)
+[6] 黃永銘、黃亦銘、曾龍，滲透測試之OSSTMM 標準（一），RUN_PC，(2005/4)
+[7] 傅若涵、黃亦銘、曾龍，滲透測試之OSSTMM 標準（二），RUN_PC，(2005/4)
+[8] 李崇誠、黃亦銘、曾龍，滲透測試之OSSTMM 標準（三），RUN_PC，(2005/5)
+[9] 林偉穎、陳麒元、曾龍，IPS Testing 入侵防禦系統之測試，RUN_PC，(2005/3)
+[10] 黃亦銘、羅大權、曾龍，對企業滲透測試應有的認識，RUN_PC，(2005/3)
+[11] 王慶豐、陳麒元、曾龍，IPv6 網路之安全性威脅(上)，RUN_PC，(2005/1)
+[12] 王慶豐、陳麒元、曾龍，IPv6 網路之安全性威脅(下)，RUN_PC，(2005/2)
+[13] 林偉穎、陳麒元、曾龍，Intrusion Prevention System 入侵防禦系統(1)，RUN_PC，(2004/11)
+[14] 林偉穎、陳麒元、曾龍，Intrusion Prevention System 入侵防禦系統(2)，RUN_PC，(2004/12)
+[15] 林偉穎、陳麒元、曾龍，Intrusion Prevention System 入侵防禦系統(3)，RUN_PC，(2005/1)
+```
 
 # 教科書
 ```

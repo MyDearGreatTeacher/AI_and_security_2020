@@ -22,9 +22,13 @@
    https://download.nccst.nat.gov.tw/attachfilehandout/%E8%AD%B0%E9%A1%8C%E4%BA%8C%EF%BC%9A107_OWASP_TOP10_2017.pdf
 (3)OWASP API Security Top 10
    OWASP API Security Top 10
+   
    OWASP API Security Top 10 Webinar
    觀看次數：14,753次•2019年11月25日
    https://www.youtube.com/watch?v=zTkv_9ChVPY
+   
+   OWASP API Security Top 10 Examples
+   https://www.slideshare.net/42crunch/owasp-api-security-top-10-examples
 ```
 
 ```

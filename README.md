@@ -22,7 +22,17 @@
    http://tprc.tanet.edu.tw/tpnet2018/training/10704.pdf
    https://download.nccst.nat.gov.tw/attachfilehandout/%E8%AD%B0%E9%A1%8C%E4%BA%8C%EF%BC%9A107_OWASP_TOP10_2017.pdf
 (3)OWASP API Security Top 10
-   https://www.gss.com.tw/eis/214-eis-99/2647-eis99-8
+   metasploit framework
+     https://ithelp.ithome.com.tw/articles/10224527
+     https://zh.wikipedia.org/wiki/Metasploit
+     https://en.wikipedia.org/wiki/Metasploit_Project
+   nmap
+     https://zh.wikipedia.org/wiki/Nmap
+     https://www.lijyyh.com/2012/03/nmap-using-nmap-security-scanner.html
+     https://ithelp.ithome.com.tw/articles/10216258
+     https://ithelp.ithome.com.tw/articles/10213539
+   nmap nse
+     https://www.gss.com.tw/eis/214-eis-99/2647-eis99-8
 ```
 
 ```

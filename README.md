@@ -10,6 +10,41 @@
 其他加分項目
 
 ```
+
+
+```
+期末平時報告{網站安全}:
+加強說明
+(1)OWASP 組織
+(2)OWASP TOP 10漏洞
+   https://ic.cgu.edu.tw/var/file/16/1016/img/190181335.pdf
+   https://www.gss.com.tw/eis/168-eis89/1787-eis89-6
+   http://tprc.tanet.edu.tw/tpnet2018/training/10704.pdf
+   https://download.nccst.nat.gov.tw/attachfilehandout/%E8%AD%B0%E9%A1%8C%E4%BA%8C%EF%BC%9A107_OWASP_TOP10_2017.pdf
+(3)OWASP API Security Top 10
+   https://www.gss.com.tw/eis/214-eis-99/2647-eis99-8
+```
+
+```
+期末考報告{滲透測試}
+加強說明
+(1)滲透測試方法論
+   OSSTMM（Open-Source Security Testing Methodology Manual）
+     https://www.acercsi.com/service.aspx?id=947abc14-3300-4095-92b2-e9802ef19845
+   Penetration Testing Execution Standard(PTES)
+     http://www.pentest-standard.org/index.php/Main_Page
+(2)常見漏洞
+    SANS Top 20
+    Common Weakness Enumeration (CWE)  Top 25
+      https://cwe.mitre.org/data/published/cwe_v2.8.pdf
+ 
+ (3)滲透測試步驟與常用工具說明
+    http://tprc.tanet.edu.tw/tpnet2014/training/10309.pdf
+```
+
+
+
+
 # 教科書
 ```
 tf.keras 技術者們必讀！深度學習攻略手冊
